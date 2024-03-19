@@ -39,6 +39,7 @@ result.save();
 //   password: String,
 // });
 //
+//
 
 function userExists(username, password) {
   // write logic to return true or false if this user exists
