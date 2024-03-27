@@ -2,3 +2,10 @@
 https://www.youtube.com/watch?v=iri5LLriFHs
 install mongo db compass separately from mongo db website
 connect to network,create database with table name
+
+2.IfYou want to add a existing repo that you have created before,
+to add with vscode folder or file,then run this commnand in terminal
+git remote set-url origin <repository-url(http)>
+git add .
+git commit -m "Your commit message"
+git push origin <branch-name>
